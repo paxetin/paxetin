@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @paxetin
 - 👀 I’m interested in DS, ML and DL.
 - 🌱 I’m currently learning DS.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
